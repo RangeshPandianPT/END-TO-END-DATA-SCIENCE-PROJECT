@@ -99,6 +99,7 @@ The project is structured and documented for instant deployment.
 ---
 🧾 Project Structure
 house-price-predictor/
+
 ├── app/                # FastAPI app code
 ├── data/               # housing.csv
 ├── model/              # model.pkl
