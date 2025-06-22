@@ -112,6 +112,7 @@ house-price-predictor/
 ---
 
 📌 Highlights
+
 ✅ Full end-to-end pipeline
 
 ✅ Easy-to-use form & API
