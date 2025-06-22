@@ -101,13 +101,21 @@ The project is structured and documented for instant deployment.
 house-price-predictor/
 
 ├── app/                # FastAPI app code
+
 ├── data/               # housing.csv
+
 ├── model/              # model.pkl
+
 ├── notebooks/          # EDA & training notebook
+
 ├── templates/          # HTML form UI
+
 ├── static/             # CSS styles
+
 ├── requirements.txt    # Dependencies
+
 ├── Procfile            # For Heroku
+
 ├── README.md           # Project guide
 
 ---
