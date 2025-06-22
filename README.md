@@ -32,3 +32,10 @@ Visit [http://127.0.0.1:8000/docs](http://127.0.0.1:8000/docs) for Swagger UI.
 
 ## 🌍 Deployment
 Use `Render`, `Railway`, or `Heroku` with the included Procfile.
+
+## OUTPUT
+![Image](https://github.com/user-attachments/assets/b45dfa09-546a-4598-b898-33bac5b82513)
+
+![Image](https://github.com/user-attachments/assets/f4b4bac1-cdbe-41b8-a9dd-e371602ccf09)
+
+![Image](https://github.com/user-attachments/assets/0aa6704e-6d65-4372-ae64-43540ae7811a)
